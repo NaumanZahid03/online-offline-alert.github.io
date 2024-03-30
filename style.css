@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.status-indicator {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
